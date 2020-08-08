@@ -1,0 +1,8 @@
+1. Right after you open VSCode, FIRST thing to do: git pull   (so that you have the most up to date repo to start working with again)
+2. After you're done: git add 'filename'
+3. git commit -m 'put message here in quotes'
+4. git push
+
+Type the commands in precisly as above and follow the order above!
+
+Add a line to this below so that I know that you're able to properly use git!  ~ Mayra
