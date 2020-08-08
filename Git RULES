@@ -1,8 +1,14 @@
+STEPS:
 1. Right after you open VSCode, FIRST thing to do: git pull   (so that you have the most up to date repo to start working with again)
-2. After you're done: git add 'filename'
-3. git commit -m 'put message here in quotes'
-4. git push
+2. After you're done working on a file: git add 'filename'    (repeat this step for every file you edited and want to push)
+3. Commit the files: git commit -m 'put message here in quotes'
+4. Push the file(s): git push
 
-Type the commands in precisly as above and follow the order above!
+Type the commands in precisely as above and follow the order above!
 
 Add a line to this below so that I know that you're able to properly use git!  ~ Mayra
+
+
+Other Helpful Commands:
+1. git status   -Let's you see the state of all your files, ie: what files have been edited but not comitted, which ones are comitted but not pushed, etc
+2. git log      -Let's you see the entire commit history of the repo, ie: who comitted when, and more
