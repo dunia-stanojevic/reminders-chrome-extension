@@ -1,8 +1,9 @@
 STEPS:
-1. Right after you open VSCode, FIRST thing to do: git pull   (so that you have the most up to date repo to start working with again)
-2. After you're done working on a file: git add 'filename'    (repeat this step for every file you edited and want to push)
-3. Commit the files: git commit -m 'put message here in quotes'
-4. Push the file(s): git push
+1. Open Terminal and make sure you're inside the repository. The new line should look something like this -> PS C:\Users\Mayra\reminders-chrome-extension>
+2. Now, once you're in the repo, FIRST thing to do: git pull   (so that you have the most up to date repo to start working with again)
+3. After you're done working on a file: git add 'filename'    (repeat this step for every file you edited and want to push)
+4. Commit the files: git commit -m 'put message here in quotes'
+5. Push the file(s): git push
 
 Type the commands in precisely as above and follow the order above!
 
@@ -10,5 +11,7 @@ Add a line to this below so that I know that you're able to properly use git!  ~
 
 
 Other Helpful Commands:
-1. git status   -Let's you see the state of all your files, ie: what files have been edited but not comitted, which ones are comitted but not pushed, etc
-2. git log      -Let's you see the entire commit history of the repo, ie: who comitted when, and more
+1. cd       -The command to go inside a folder or repository
+2. ls       -The command to see what's inside the folder you're currently in
+3. git status   -Let's you see the state of all your files, ie: what files have been edited but not comitted, which ones are comitted but not pushed, etc
+4. git log      -Let's you see the entire commit history of the repo, ie: who comitted when, and more
