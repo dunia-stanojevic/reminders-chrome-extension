@@ -16,3 +16,6 @@ Other Helpful Commands:
 2. ls       -The command to see what's inside the folder you're currently in
 3. git status   -Let's you see the state of all your files, ie: what files have been edited but not comitted, which ones are comitted but not pushed, etc
 4. git log      -Let's you see the entire commit history of the repo, ie: who comitted when, and more
+
+Adding  lines for testing 
+testing123 123 
